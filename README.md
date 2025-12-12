@@ -80,14 +80,37 @@
 
 | Service  | URL |
 |---------|-----|
-| GitHub  | https://github.com/ShivangiPandey](https://github.com/Techfay |
+| GitHub  | https://github.com/Techfay |
 | LinkedIn | https://www.linkedin.com/in/shivangi-pandey-4074181b0/ |
+| Credly Badges | https://www.credly.com/users/shivangi-pandey.e37c7ea2/edit#credly |
 | Portfolio | https://shivangipandey.netlify.app/ |
 | Medium | https://medium.com/@shivangipandeydt.126 |
 
-## ☁️ Certifications & Skills
+## Badges & Skills
 
-https://www.credly.com/earner/earned/badge/1aeeff1b-9a61-46b9-88ce-a667e817389d 
+<img width="150" height="150" alt="aws-certified-solutions-architect-associate (1)" src="https://github.com/user-attachments/assets/68778fcb-9686-4b6f-8949-82d057d42fbe" />
+<img width="150" height="150" alt="aws-certified-cloudops-engineer-associate" src="https://github.com/user-attachments/assets/a888f981-0244-4b64-9f0b-2cd8568d5fbd" />
+<img width="150" height="150" alt="aws-certified-developer-associate" src="https://github.com/user-attachments/assets/c8101884-dc4f-43d2-ad6d-3e91cd3820a0" />
+<img width="150" height="150" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/9c13d086-9408-41e4-9f3f-cefb859be1e7" />
+<img width="150" height="150" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/3414cf31-747a-4a5d-b686-251c1f04d4c6" />
+<img width="150" height="150" alt="aws-knowledge-architecting-retired" src="https://github.com/user-attachments/assets/29f6b7a9-a5ac-4b11-948b-d2db01e1d216" />
+<img width="150" height="150" alt="aws-knowledge-serverless-training-badge" src="https://github.com/user-attachments/assets/2c61a51e-ffb8-42c1-b43a-472a4219d2d6" />
+<img width="150" height="150" alt="well-architected-proficient" src="https://github.com/user-attachments/assets/b06b8135-1758-4a61-8df2-fbddf731c38d" />
+<img width="150" height="150" alt="Azure365" src="https://github.com/user-attachments/assets/c5a6eef4-a41f-4951-b71d-79561d64af67" />
+<img width="150" height="150" alt="Azure Fundamentals" src="https://github.com/user-attachments/assets/d22de359-7116-4052-aa3c-5fd579715576" />
+<img width="150" height="150" alt="Intro to Gen AI" src="https://github.com/user-attachments/assets/81b50a19-e051-44aa-a2ae-1995281a8491" />
+<img width="150" height="150" alt="introduction-to-modern-ai" src="https://github.com/user-attachments/assets/67439d5a-eba9-48fa-bf7c-2fddf7eeb259" />
+
+## 🎓 Education
+MSc Cloud Computing — National College of Ireland (2024-2025)
+
+
+## 🤝 Connect With Me
+📧 shivangipandeydt.126@gmail.com
+
+
+
+
 
 
 
