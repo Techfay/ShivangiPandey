@@ -35,7 +35,7 @@
 ## 🏅  Professional Certifications
 
 ### ***AWS***
-- AWS Certified Solutions Architect - Associate
+- [AWS Certified Solutions Architect – Associate] (https://www.credly.com/badges/1aeeff1b-9a61-46b9-88ce-a667e817389d/public_url)
 - AWS Certified Developer - Associate
 - AWS Certified CloudOps Engineer - Associate
 - AWS Certified Cloud Practitioner
