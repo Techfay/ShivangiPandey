@@ -68,5 +68,25 @@
 - DevOps Beginners to Advance with Projects – Udemy
 - DevOps Engineering – Planning to Production - GeeksForGeeks
 
+## 🤝 Open to Collaborate On
+- Cloud architecture & infrastructure projects  
+- DevOps automation & CI/CD pipelines  
+- Cloud migrations & Cost Optimisation  
+- Monitoring, reliability & cloud operations
+- Highly Available & Scalable Systems
+
+
+## 🔗 Links and Social Media
+
+| Service  | URL |
+|---------|-----|
+| GitHub  | https://github.com/ShivangiPandey |
+| LinkedIn | https://www.linkedin.com/in/shivangi-pandey-4074181b0/ |
+| Portfolio | https://shivangipandey.netlify.app/ |
+| Medium | https://medium.com/@shivangipandeydt.126 |
+
+
+
+
 
 
