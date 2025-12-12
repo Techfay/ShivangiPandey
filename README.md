@@ -11,26 +11,66 @@
 ## 🛠️ Technical Expertise
 
 ### ☁️ Cloud Platforms
-- **AWS**: EC2, S3, RDS, VPC, IAM, Lambda, CloudWatch, CloudTrail  
+- **AWS**: EC2, S3, RDS, VPC, IAM, Lambda, CloudWatch, CloudTrail, AutoScaling, SNS, SQS, Elastic Beanstalk
 - **Azure**: Virtual Machines, Storage Accounts, VNets, Azure Monitor, IoT Explorer
 - **GCP**: Basic Exposure
 - **Oracle**: Basic Exposure
 
-### 🧱 Infrastructure & DevOps
-- Infrastructure as Code: **Terraform, CloudFormation**
-- CI/CD: **GitHub Actions, AWS CodePipeline**
-- Automation & Scripting: **Shell, Python**
-
-### 🖥️ Systems & Operations
-- Linux & Windows Server administration
-- Monitoring, logging, and troubleshooting
-- Patch management & operational support
-
-### 🔐 Security & Best Practices
-- IAM, least-privilege access, MFA
+## 🏗️ Cloud Architecture & Cost Optimization
 - AWS Well-Architected Framework
-- Cost optimisation & operational excellence
+- Cost optimisation: Trusted Advisor, Cost Explorer, Savings Plans, Reserved Instances
+- High availability & scalability design
 
+### 🧱 Infrastructure & DevOps
+- **Infrastructure as Code:** Terraform, CloudFormation, Ansible(Basic Exposure)
+- **CI/CD:** GitHub Actions, AWS CodePipeline, Jenkins
+- **Automation & Scripting:** Python, Powershell, Bash, CSS, HTML, DJANGO, YAML, JSON, Java (Exposure)
+- **Containerization** Docker, Kubernetes
+
+### 🖥️ Infrastructure, Systems & Operations
+
+- **Operating Systems**: Windows Server (2016–2022), Linux (Red Hat, Ubuntu, CentOS)
+- **Virtualisation & Platforms**: VMware vSphere, Hyper-V, vRealize Automation (vRA), Oracle VirtualBox, IIS, Vagrant
+- **Systems Administration**: Server lifecycle management (provisioning to decommissioning), Active Directory, quota & patch management
+- **Operations**: Linux & Windows Server administration across production environments
+- **Reliability & Support**: Monitoring, logging, incident troubleshooting, system hardening, and operational support
+
+
+### 📊 Monitoring & Observability
+- Amazon CloudWatch, Datadog, New Relic
+- Grafana, Prometheus
+- SLA monitoring, log aggregation & tracing
+
+### 🔐 Security & Compliance
+- IAM policies, RBAC, SSO/MFA
+- Encryption (at rest & in transit), TLS/SSL
+- Vulnerability scanning
+- Group Policy Objects (GPOs)
+
+### 🌐 Web Servers & APIs
+- Apache, NGINX, Tomcat
+- WordPress
+- RESTful APIs (build & integration)
+
+### 🌍 Networking
+- DNS, DHCP, TCP/IP, HTTP/HTTPS
+- Load balancing, VLANs, VPNs
+- VPC routing & firewall configurations
+
+### 💾 Databases & Storage
+- MySQL, SQLite
+- Amazon S3
+
+### 🧩 IT Tools & Methodologies
+- ServiceNow (Incident, Change, Release)
+- ITIL / ITSM best practices
+- BigFix
+- SDLC, Agile/Scrum
+- SLA compliance
+
+### 🤖 Machine Learning 
+- TensorFlow, Scikit-learn
+- Pandas, NumPy, Colab, SageMaker
 
 ## 🏅  Professional Certifications
 
@@ -69,9 +109,9 @@
 - DevOps Engineering – Planning to Production - GeeksForGeeks
 
 ## 🤝 Open to Collaborate On
-- Cloud architecture & infrastructure projects  
+- Cloud architecture & Infrastructure projects  
 - DevOps automation & CI/CD pipelines  
-- Cloud migrations & Cost Optimisation  
+- Cloud Migrations & Cost Optimisation  
 - Monitoring, reliability & cloud operations
 - Highly Available & Scalable Systems
 
